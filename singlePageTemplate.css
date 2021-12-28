@@ -31,8 +31,8 @@ header {
 	text-align: undefined;
 	width: 10%;
 	float: left;
-	margin-top: 15px;
-	margin-left: 25px;
+	margin-top: 1.2%;
+	margin-left: 31px;
 	letter-spacing: 4px;
 }
 nav {
@@ -331,9 +331,7 @@ nav ul li {
 	float: none;
 	text-align: center;
 }
-.banner {
-	background-color: #2D9AB7;
-	background-image: none;
+
 }
 .tagline {
 	margin-top: 20px;
